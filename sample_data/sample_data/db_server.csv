@@ -1,0 +1,7 @@
+timestamp,server,severity,message
+2026-01-10 09:01:00,db-01,INFO,Replication healthy
+2026-01-10 09:20:00,db-01,ERROR,Slow query detected [ERR-QRY-03]
+2026-01-10 09:40:10,db-01,WARNING,Failed login for postgres from 192.0.2.99
+2026-01-10 09:40:14,db-01,WARNING,Failed login for postgres from 192.0.2.99
+2026-01-10 09:55:00,db-01,ERROR,Database connection timeout [ERR-DB-01]
+2026-01-10 10:15:00,db-01,DEBUG,Cache warmed
