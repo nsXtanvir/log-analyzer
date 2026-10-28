@@ -1,0 +1,10 @@
+timestamp,server,severity,message
+2026-01-10 09:00:00,web-01,INFO,Service started
+2026-01-10 09:05:12,web-01,WARNING,High memory usage [WARN-MEM-01]
+2026-01-10 09:10:45,web-01,ERROR,Database connection timeout [ERR-DB-01]
+2026-01-10 09:12:03,web-01,WARNING,Failed login for admin from 203.0.113.45
+2026-01-10 09:12:09,web-01,WARNING,Failed login for root from 203.0.113.45
+2026-01-10 09:12:15,web-01,WARNING,Failed login for admin from 203.0.113.45
+2026-01-10 09:12:21,web-01,WARNING,Failed login for test from 203.0.113.45
+2026-01-10 09:30:00,web-01,INFO,User alice logged in from 198.51.100.7
+2026-01-10 10:02:30,web-01,CRITICAL,Disk almost full [ERR-DISK-02]
