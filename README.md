@@ -56,6 +56,11 @@ Possible brute-force sources:
 ## Log format
 CSV with these columns: `timestamp, server, severity, message`
 
+```csv
+timestamp,server,severity,message
+2026-01-10 09:12:03,web-01,WARNING,Failed login for admin from 203.0.113.45
+```
+
 ## Security notes
 - Sample data uses reserved documentation IP ranges and fake events only.
 - No secrets, tokens or credentials belong in this repository.
